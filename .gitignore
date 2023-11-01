@@ -1,0 +1,8 @@
+# ENV Variables File
+.env
+
+# Exe program built from main
+nhl-schedule-scraper.exe
+
+# Files created by web scraper
+nhlSchedule.json
